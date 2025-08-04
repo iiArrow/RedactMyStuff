@@ -15,7 +15,7 @@ Imagine you use an AI Service such **OpenAI ChatGPT** or **DeepSeek Online Model
 
 ### 1- Setup via .crx file:
 
-1. **Download the `.crx` file** for the [extension](https://gitlab.ciphersa.net/tdr/dfir/redactmystuff/-/blob/main/RedactMyStuff.crx).
+1. **Download the `.crx` file** for the [extension](https://github.com/iiArrow/RedactMyStuff/releases/tag/v1.0).
 2. Open Chrome and go to:  
    👉 `chrome://extensions/`
 3. Enable **Developer Mode** (toggle in the top-right corner).
